@@ -18,11 +18,16 @@ main {
     background-color: #F2F2F2;
 }
 body {
-    background-color: rgba(122, 191 191, 0.5);
+    background-color: rgba(122, 191, 191, 0.5);
 }
 aside {
     background-color: #7ABFBF;
     display: flex;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 h1 {
     display: flex;
