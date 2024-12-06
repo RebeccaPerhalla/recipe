@@ -1,0 +1,143 @@
+
+.montserrat-um {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bebas-neue-regular {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+}  
+header {
+    background-color: #F2F2F2;
+    display: flex;
+}
+main {
+    background-color: #F2F2F2;
+}
+body {
+    background-color: rgba(122, 191 191, .5);
+}
+aside {
+    background-color: #7ABFBF;
+    display: flex;
+}
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-family: "Bebas Neue";
+    font-size: 40px;
+}
+h2 {
+    font-family: "Bebas Neue";
+    font-size: 30px;
+}
+h3 {
+    font-family: "Bebas Neue";
+    font-size: 25px;
+}
+nav a{
+    font-family: "Bebas Neue";
+    font-size: 20px;
+}
+nav span {
+    font-family: "Bebas Neue";
+    font-size: 20px;
+}
+p {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+dd {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+li {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+nav {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+input {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+dt {
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+header, h1 {
+    font-family: "Bebas Neue";
+    color: #0D0D0D;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#svgs {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    border-style: solid;
+    border-color: #EB5428;
+    border-width: 1px;
+}
+#um {
+    display: flex;
+}
+#street-taco.png {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+#details {
+    background-color: #0D0D0D;
+    color: #7ABFBF;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+#ingredients {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+aside, h2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+#um p {
+    color: #EB5428;
+}
+#p-tacos p {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-family: "Montserrat";
+}
+#directions {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-family: "Montserrat";
+    font-size: 16px;
+}
+#yes {
+    display: flex;
+}
+aside h2 {
+    font-family: "Bebas Neue";
+    font-size: 30px;
+}
