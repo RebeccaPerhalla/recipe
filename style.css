@@ -43,10 +43,15 @@ h3 {
 nav a{
     font-family: "Bebas Neue";
     font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
 }
 nav span {
     font-family: "Bebas Neue";
     font-size: 20px;
+    display: flex;
 }
 p {
     font-family: "Montserrat";
@@ -67,10 +72,12 @@ nav {
 input {
     font-family: "Montserrat";
     font-size: 16px;
+    display: flex;
 }
 dt {
     font-family: "Montserrat";
     font-size: 16px;
+    display: flex;
 }
 header, h1 {
     font-family: "Bebas Neue";
@@ -140,4 +147,14 @@ aside, h2 {
 aside h2 {
     font-family: "Bebas Neue";
     font-size: 30px;
+}
+#connect {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#connect svg {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
