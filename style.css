@@ -1,7 +1,6 @@
 
 .montserrat-um {
   font-family: "Montserrat", serif;
-  font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
@@ -19,7 +18,7 @@ main {
     background-color: #F2F2F2;
 }
 body {
-    background-color: rgba(122, 191 191, .5);
+    background-color: rgba(122, 191 191, 0.5);
 }
 aside {
     background-color: #7ABFBF;
